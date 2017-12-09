@@ -1,0 +1,5 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[CMake][CMake Build Directory 0]
+Install Directory=file:///usr/local
